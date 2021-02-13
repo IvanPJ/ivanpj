@@ -4,7 +4,7 @@ E ai pessoas! Este é meu perfil pessoal e profissional do GitHub, espero que en
 
 ### Sobre
 
-Sou um cara pro que der e vier, posso não saber da resposta, mas juntos e com um pouquinho de pesquisa eu sei que sempre vamos achar o caminho.
+Sou um cara para o que der e vier, posso não saber da resposta, mas juntos e com um pouquinho de pesquisa eu sei que sempre vamos achar o caminho.
 
 ### Carreira 💻
 
