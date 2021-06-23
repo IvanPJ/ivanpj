@@ -8,4 +8,4 @@ Sou um cara para o que der e vier, posso não saber da resposta, mas juntos e co
 
 ### Carreira 💻
 
-Atualmente estou trabalhando na **SpinTecnologia** com as seguintes tecnologias: PHP, Laravel, Angular e MySQL 
+Atualmente estou trabalhando na **SpinTecnologia** com as seguintes tecnologias: PHP, Laravel, Angular, React, Flutter e MySQL.
